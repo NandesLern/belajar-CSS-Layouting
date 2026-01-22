@@ -1,0 +1,50 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+
+#header h1 {
+    text-align: center;
+}
+
+#nav, #highlight, #footer{
+    background-color: #efefef;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+#nav li {
+    display: inline;
+    padding: 5px;
+}
+
+
+
+#highlight img {
+    width: 20%;
+}
+
+#content {
+    height: 100%;
+    overflow: auto;
+}
+
+.article {
+    float: left;
+    background-color: #efefef;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    width: 280px;
+}
+
+.column2 {
+    background-color: aqua;
+}
+
+.column1, .column3 {
+    background-color: aquamarine;
+}
