@@ -1,0 +1,9 @@
+p {
+    background-color: aqua;
+
+}
+
+.posisi-relative {
+    position: relative;
+    background-color: coral;
+}
